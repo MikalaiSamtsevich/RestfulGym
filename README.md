@@ -1,7 +1,3 @@
-Вот README, переведённый на английский:
-
----
-
 # RestfulGym
 
 ## Project Description
